@@ -22,5 +22,8 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << std::endl;
+    std::cout << "Science is what we understand well enough to explain to a computer. "
+    << "Art is everything else we do.\n" << "\t/Donald Knuth/\n";
     return 0;
 }
